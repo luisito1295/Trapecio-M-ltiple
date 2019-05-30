@@ -1,0 +1,30 @@
+c:\users\marlen\documents\visual studio 2015\Projects\Trapecio Múltiple\Trapecio Múltiple\bin\Debug\Trapecio Múltiple.exe.config
+c:\users\marlen\documents\visual studio 2015\Projects\Trapecio Múltiple\Trapecio Múltiple\bin\Debug\Trapecio Múltiple.exe
+c:\users\marlen\documents\visual studio 2015\Projects\Trapecio Múltiple\Trapecio Múltiple\bin\Debug\Trapecio Múltiple.pdb
+c:\users\marlen\documents\visual studio 2015\Projects\Trapecio Múltiple\Trapecio Múltiple\obj\Debug\Trapecio Múltiple.csprojResolveAssemblyReference.cache
+c:\users\marlen\documents\visual studio 2015\Projects\Trapecio Múltiple\Trapecio Múltiple\obj\Debug\Trapecio_Múltiple.Form1.resources
+c:\users\marlen\documents\visual studio 2015\Projects\Trapecio Múltiple\Trapecio Múltiple\obj\Debug\Trapecio_Múltiple.Properties.Resources.resources
+c:\users\marlen\documents\visual studio 2015\Projects\Trapecio Múltiple\Trapecio Múltiple\obj\Debug\Trapecio Múltiple.csproj.GenerateResource.Cache
+c:\users\marlen\documents\visual studio 2015\Projects\Trapecio Múltiple\Trapecio Múltiple\obj\Debug\Trapecio Múltiple.exe
+c:\users\marlen\documents\visual studio 2015\Projects\Trapecio Múltiple\Trapecio Múltiple\obj\Debug\Trapecio Múltiple.pdb
+C:\Users\Luisito\Documents\Visual Studio 2015\Projects\Trapecio Múltiple\Trapecio Múltiple\bin\Debug\Trapecio Múltiple.exe.config
+C:\Users\Luisito\Documents\Visual Studio 2015\Projects\Trapecio Múltiple\Trapecio Múltiple\obj\Debug\Trapecio Múltiple.exe
+C:\Users\Luisito\Documents\Visual Studio 2015\Projects\Trapecio Múltiple\Trapecio Múltiple\obj\Debug\Trapecio Múltiple.pdb
+C:\Users\Luisito\Documents\Visual Studio 2015\Projects\Trapecio Múltiple\Trapecio Múltiple\bin\Debug\Trapecio Múltiple.exe
+C:\Users\Luisito\Documents\Visual Studio 2015\Projects\Trapecio Múltiple\Trapecio Múltiple\bin\Debug\Trapecio Múltiple.pdb
+C:\Users\Luisito\Documents\Visual Studio 2015\Projects\Trapecio Múltiple\Trapecio Múltiple\obj\Debug\Trapecio Múltiple.csprojResolveAssemblyReference.cache
+C:\Users\Luisito\Documents\Visual Studio 2015\Projects\Trapecio Múltiple\Trapecio Múltiple\obj\Debug\Trapecio_Múltiple.Form1.resources
+C:\Users\Luisito\Documents\Visual Studio 2015\Projects\Trapecio Múltiple\Trapecio Múltiple\obj\Debug\Trapecio_Múltiple.Properties.Resources.resources
+C:\Users\Luisito\Documents\Visual Studio 2015\Projects\Trapecio Múltiple\Trapecio Múltiple\obj\Debug\Trapecio Múltiple.csproj.GenerateResource.Cache
+C:\Users\Luisito\Documents\Visual Studio 2015\Projects\Trapecio Múltiple\Trapecio Múltiple\bin\Debug\info.lundin.math.dll
+D:\luisl\Documents\Visual Studio 2019\Projects\Trapecio Múltiple\Trapecio Múltiple\bin\Debug\Trapecio Múltiple.exe.config
+D:\luisl\Documents\Visual Studio 2019\Projects\Trapecio Múltiple\Trapecio Múltiple\bin\Debug\Trapecio Múltiple.exe
+D:\luisl\Documents\Visual Studio 2019\Projects\Trapecio Múltiple\Trapecio Múltiple\bin\Debug\Trapecio Múltiple.pdb
+D:\luisl\Documents\Visual Studio 2019\Projects\Trapecio Múltiple\Trapecio Múltiple\obj\Debug\Trapecio Múltiple.csprojAssemblyReference.cache
+D:\luisl\Documents\Visual Studio 2019\Projects\Trapecio Múltiple\Trapecio Múltiple\obj\Debug\Trapecio_Múltiple.Form1.resources
+D:\luisl\Documents\Visual Studio 2019\Projects\Trapecio Múltiple\Trapecio Múltiple\obj\Debug\Trapecio_Múltiple.Properties.Resources.resources
+D:\luisl\Documents\Visual Studio 2019\Projects\Trapecio Múltiple\Trapecio Múltiple\obj\Debug\Trapecio Múltiple.csproj.GenerateResource.cache
+D:\luisl\Documents\Visual Studio 2019\Projects\Trapecio Múltiple\Trapecio Múltiple\obj\Debug\Trapecio Múltiple.csproj.CoreCompileInputs.cache
+D:\luisl\Documents\Visual Studio 2019\Projects\Trapecio Múltiple\Trapecio Múltiple\obj\Debug\Trapecio Múltiple.csproj.CopyComplete
+D:\luisl\Documents\Visual Studio 2019\Projects\Trapecio Múltiple\Trapecio Múltiple\obj\Debug\Trapecio Múltiple.exe
+D:\luisl\Documents\Visual Studio 2019\Projects\Trapecio Múltiple\Trapecio Múltiple\obj\Debug\Trapecio Múltiple.pdb
